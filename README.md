@@ -1,19 +1,37 @@
----
-
 <div align="center">
 
-## 🌐 NGUYỄN MINH KHÔI | @BlazeHunter
+# 🚀 NGUYỄN MINH KHÔI
+## @BlazeHunter | Professional Content Creator & Strategic Community Leader
 
-**Professional Content Creator • Community Developer • Strategic Visionary**
-
-### Digital Presence
-[![Facebook](https://img.shields.io/badge/Connect_on-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
-[![YouTube](https://img.shields.io/badge/Subscribe_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![TikTok](https://img.shields.io/badge/Follow_on-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com)
-
-</div>
+**Strategic Community Developer** • **Content Creator** • **Visionary Community Architect**
 
 ---
+
+### 📊 GitHub Profile
+[![GitHub](https://img.shields.io/badge/GitHub-ngxmkhoi-181717?style=for-the-badge&logo=github)](https://github.com/ngxmkhoi)
+
+### 🌐 Digital Ecosystem
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com)
+
+---
+
+### 📈 GitHub Statistics
+
+<a href="https://github.com/ngxmkhoi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngxmkhoi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngxmkhoi&layout=compact&theme=radical" />
+</a>
+
+---
+
+### 🏆 GitHub Achievements
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngxmkhoi&theme=radical)
+
+---
+
+</div>
 
 ## **VIETNAMESE VERSION** | Phiên Bản Tiếng Việt
 
