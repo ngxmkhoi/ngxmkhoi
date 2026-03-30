@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Nguyễn Minh Khôi
+# 🚀 Nguyen Minh Khoi
 ## @BlazeHunter
 
 **Game Thủ • Content Creator • Thành Viên SGM Network**
