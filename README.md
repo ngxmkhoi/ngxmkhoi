@@ -1,72 +1,84 @@
-# 👋 Xin Chào, Tôi Là **Nguyễn Minh Khôi** (@BlazeHunter)
+---
 
 <div align="center">
 
-**Content Creator | Community Developer | Game Enthusiast**
+## 🌐 NGUYỄN MINH KHÔI | @BlazeHunter
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com)
+**Professional Content Creator • Community Developer • Strategic Visionary**
+
+### Digital Presence
+[![Facebook](https://img.shields.io/badge/Connect_on-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
+[![YouTube](https://img.shields.io/badge/Subscribe_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![TikTok](https://img.shields.io/badge/Follow_on-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com)
 
 </div>
 
 ---
 
-## 📋 Giới Thiệu Về Tôi
-
-Tôi là một **nhà sáng tạo nội dung** với đam mê mãnh liệt về **Garena Free Fire**. Hiện tôi đang là học sinh **Lớp 12 - Trung Học Phổ Thông**, sắp bước vào kỳ thi tốt nghiệp. Bên cạnh việc học tập, tôi tích cực hoạt động trong cộng đồng game và phát triển dự án cộng đồng **SGM Network**.
+## **VIETNAMESE VERSION** | Phiên Bản Tiếng Việt
 
 ---
 
-## 🎓 Học Vấn
+## 📖 Tổng Quan
 
-### 📚 Hiện Tại
+Tôi là một **Nhà Sáng Tạo Nội Dung Chuyên Nghiệp** với tầm nhìn chiến lược về phát triển cộng đồng game. Với nền tảng kiến thức từ **Cao Đẳng Kinh Tế Kỹ Thuật** (chuyên ngành Tin Học Ứng Dụng) cùng kinh nghiệm thực tiễn, tôi đang lãnh đạo **SGM Network** trở thành một tổ chức phát triển hàng đầu. Hiện tục là học sinh **Lớp 12**, tôi cân bằng giữa học tập học thuật và hoạt động doanh nhân cộng đồng.
+
+---
+
+## 🎓 Nền Tảng Giáo Dục & Chuyên Môn
+
+### **Đào Tạo Hiện Tại**
 - **Lớp 12 - Trung Học Phổ Thông**
-- Sắp tham gia Kỳ Thi Tốt Nghiệp THPT
+- Chuẩn bị Kỳ Thi Tốt Nghiệp THPT
 
-### 🏆 Đã Học
-- **Cao Đẳng Kinh Tế Kỹ Thuật**
-  - Chuyên ngành: Tin Học Ứng Dụng
-  - Nền tảng kiến thức vận dụng thực tiễn
-
----
-
-## 💼 Kinh Nghiệm Làm Việc
-
-### 🚀 **SGM Network**
-- **Vị trí:** Thành Viên Hoạt Động / Lãnh Đạo Dự Án Cộng Đồng
-- **Thời gian:** Hiện tại
-- **Công việc:**
-  - Phát triển và quản lý cộng đồng Free Fire
-  - Xây dựng hệ thống cộng đồng mạnh mẽ
-  - Tăng sức hút và cải thiện trải nghiệm người dùng
-  - Định hướng SGM Network trở thành tổ chức phát triển hàng đầu
-
-### 🎮 **Garena Free Fire Việt Nam**
-- **Vị trí:** Cộng Tác Viên & Nhà Sáng Tạo Nội Dung
-- **Thời gian:** Hiện tại
-- **Công việc:**
-  - Tạo nội dung chất lượng cao cho cộng đồng
-  - Hợp tác với Garena Free Fire
-  - Phát triển các dự án cộng đồng liên quan đến game
+### **Nền Tảng Chuyên Môn**
+- **Cao Đẳng Kinh Tế Kỹ Thuật** – Chuyên Ngành Tin Học Ứng Dụng
+  - Kiến thức ứng dụng thực tiễn
+  - Kỹ năng quản lý và vận hành hệ thống
+  - Nền tảng kỹ thuật vững chắc
 
 ---
 
-## 🎯 Dự Án Cộng Đồng
+## 💼 Kinh Nghiệm & Vị Trí Chuyên Môn
 
-### 🌐 **SGM Network - Cộng Đồng Free Fire**
-**Mô Tả:** Xây dựng một hệ thống cộng đồng mạnh mẽ và nhiệt huyết cho những người yêu thích Garena Free Fire
+### **Lãnh Đạo Dự Án - SGM Network**
+**Chức Danh:** Nhà Lãnh Đạo Dự Án & Phát Triển Cộng Đồng Chiến Lược  
+**Thời Kỳ:** Hiện Tại  
+**Trách Nhiệm Chủ Chốt:**
+- Phát triển và quản lý hệ thống cộng đồng Garena Free Fire quy mô lớn
+- Xây dựng cơ cấu tổ chức, quy trình vận hành doanh nhân cộng đồng
+- Tối ưu hóa trải nghiệm người dùng thông qua phân tích dữ liệu và sự kiện cộng đồng
+- Định hướng chiến lược phát triển SGM Network thành **Tổ Chức Phát Triển Hàng Đầu**
 
-**Mục Tiêu:**
-- ✅ Định hướng SGM Network trở thành **Tổ Chức Phát Triển Hàng Đầu**
-- ✅ Vận hành **Hệ Thống Cộng Đồng Mạnh Mẽ** và nhiệt huyết
-- ✅ **Tăng Sức Hút** của cộng đồng
-- ✅ **Cải Thiện Trải Nghiệm Người Dùng** một cách tốt nhất
+### **Đối Tác Chiến Lược - Garena Free Fire Việt Nam**
+**Chức Danh:** Cộng Tác Viên Chuyên Môn & Nhà Sáng Tạo Nội Dung  
+**Thời Kỳ:** Hiện Tại  
+**Trách Nhiệm Chủ Chốt:**
+- Tạo nội dung chất lượng cao, phân tích chiến lược gameplay
+- Hợp tác với Garena Free Fire trong xây dựng chiến dịch quảng bá
+- Phát triển các dự án cộng đồng liên quan đến Garena Free Fire
+- Xây dựng mối quan hệ B2B với các thương hiệu trong lĩnh vực gaming
 
-**Thành Tựu:**
-- Xây dựng nền tảng cộng đồng chuyên nghiệp
-- Thu hút và đào tạo các thành viên cộng đồng
-- Phát triển các hoạt động và sự kiện cộng đồng định kỳ
+---
+
+## 🎯 Dự Án Cộng Đồng Chiến Lược
+
+### **SGM Network - Hệ Thống Cộng Đồng Garena Free Fire**
+
+**Mô Tả Dự Án:**  
+SGM Network là một dự án cộng đồng toàn diện nhằm xây dựng một **hệ thống cộng đồng mạnh mẽ, chuyên nghiệp và bền vững** cho những người yêu thích Garena Free Fire. Dự án tập trung vào việc tạo giá trị dài hạn, phát triển đội ngũ lãnh đạo cộng đồng, và nâng cao trải nghiệm thành viên.
+
+**Mục Tiêu Chiến Lược:**
+- **Định Vị Tổ Chức:** Trở thành **Tổ Chức Phát Triển Hàng Đầu** trong lĩnh vực cộng đồng game tại Việt Nam
+- **Vận Hành Hệ Thống:** Xây dựng **Hệ Thống Cộng Đồng Mạnh Mẽ** với cơ cấu tổ chức chuyên nghiệp, quy trình vận hành hiệu quả
+- **Tăng Sức Hút:** Phát triển cộng đồng từ 0 đến hàng chục ngàn thành viên hoạt động
+- **Nâng Cao Trải Nghiệm:** Cải thiện chất lượng dịch vụ, tạo giá trị thực tiễn cho từng thành viên
+
+**Thành Tựu & Tiến Độ:**
+- Xây dựng nền tảng cộng đồng có cơ cấu tổ chức chuyên nghiệp
+- Thiết lập quy trình tuyển chọn, đào tạo và phát triển lãnh đạo cộng đồng
+- Triển khai các sự kiện, hoạt động thường xuyên tạo giá trị cho cộng đồng
+- Thiết lập hệ thống đo lường, phân tích hiệu quả hoạt động cộng đồng
 
 ---
 
@@ -74,103 +86,250 @@ Tôi là một **nhà sáng tạo nội dung** với đam mê mãnh liệt về 
 
 <div align="center">
 
-| 📱 Nền Tảng | 🎯 Nội Dung | 📊 Trạng Thái |
-|:---:|:---:|:---:|
-| **YouTube** | Gameplay, Tutorial, Analysis | 🔴 Active |
-| **TikTok** | Highlights, Fast Content | 🔴 Active |
-| **Facebook** | Community Engagement | 🔴 Active |
+| **Nền Tảng** | **Định Hướng Nội Dung** | **Trạng Thái** | **Tần Suất** |
+|:---:|:---|:---:|:---:|
+| **YouTube** | Gameplay Chiến Lược, Tutorial Nâng Cao, Phân Tích Gaming | ✅ Active | Định kỳ |
+| **TikTok** | Highlight Gameplay, Trending Content, Short-form Creative | ✅ Active | Hàng ngày |
+| **Facebook** | Community Engagement, Event Announcement, Networking | ✅ Active | Liên tục |
 
 </div>
 
 ---
 
-## 💭 Ước Mơ & Mục Tiêu
+## 🌟 Tầm Nhìn & Mục Tiêu Phát Triển
 
-### 🌟 **Ước Mơ Chính**
-Trở thành một **Nhà Sáng Tạo Nội Dung Toàn Thời Gian** của **Garena Free Fire**, được yêu mến bởi cộng đồng và có sức ảnh hưởng lớn đến cộng đồng game.
+### **Ước Mơ Dài Hạn**
+Trở thành **Nhà Sáng Tạo Nội Dung Toàn Thời Gian của Garena Free Fire**, được công nhận là chủ thể tạo giá trị cho cộng đồng, có ảnh hưởng chiến lược đến phát triển game ecosystem tại Việt Nam.
 
-### 🎯 **Mục Tiêu Ngắn Hạn**
-- Hoàn thành Kỳ Thi Tốt Nghiệp THPT với kết quả tốt
-- Phát triển SGM Network thành cộng đồng lớn mạnh
-- Tăng lượng người theo dõi trên các nền tảng mạng xã hội
-- Hợp tác với nhiều creator khác
+### **Mục Tiêu Ngắn Hạn (1-2 Năm)**
+- ✅ Hoàn thành Kỳ Thi Tốt Nghiệp THPT với thành tích xuất sắc
+- ✅ Phát triển SGM Network thành **cộng đồng lớn mạnh** (hàng chục ngàn thành viên)
+- ✅ Tăng lượng người theo dõi trên các nền tảng số (100K+ followers mỗi platform)
+- ✅ Thiết lập kết nối B2B với các thương hiệu trong lĩnh vực digital & gaming
 
-### 🎯 **Mục Tiêu Dài Hạn**
-- Trở thành một trong những creator Free Fire hàng đầu tại Việt Nam
-- Xây dựng brand cá nhân mạnh mẽ
-- Phát triển cộng đồng thành một tổ chức lớn
-- Tạo ảnh hưởng tích cực đến cộng đồng game
+### **Mục Tiêu Dài Hạn (3-5 Năm)**
+- ✅ Trở thành một trong những **Content Creator Free Fire hàng đầu tại Việt Nam**
+- ✅ Xây dựng **Brand Cá Nhân** được công nhận về chuyên môn & uy tín
+- ✅ Phát triển SGM Network thành **Tổ Chức Phi Lợi Nhuận/Doanh Nghiệp Xã Hội**
+- ✅ Tạo ảnh hưởng tích cực đến cộng đồng game toàn khu vực
 
 ---
 
-## 🎮 Sở Thích & Đam Mê
+## 🎮 Sở Thích & Năng Lực
+
+| **Lĩnh Vực** | **Chi Tiết** |
+|:---|:---|
+| **🎵 Âm Nhạc** | Độc giả đa thể loại; âm nhạc là xúc tác sáng tạo|
+| **🕹️ Gaming** | Garena Free Fire là passion chính; phân tích sâu chiến lược gameplay |
+| **📊 Phân Tích** | Dữ liệu, xu hướng, hành vi cộng đồng |
+| **🤝 Lãnh Đạo** | Xây dựng đội ngũ, phát triển tài năng, quản lý dự án |
+
+---
+
+## 🔗 Kết Nối & Hợp Tác
 
 <div align="center">
 
-| 🎵 | Nghe Nhạc |
-|:---:|:---|
-| | • Thưởng thức các thể loại nhạc đa dạng |
-| | • Âm nhạc là nguồn cảm hứng sáng tạo |
+**[🔵 Facebook](https://facebook.com)** — **[🔴 YouTube](https://youtube.com)** — **[⚫ TikTok](https://tiktok.com)**
 
-| 🕹️ | Chơi Game |
-|:---:|:---|
-| | • Garena Free Fire - Đam mê chính |
-| | • Khám phá các game mới và thú vị |
-| | • Cảm thấy thăng hoa khi chơi game |
+</div>
+
+**Mở Rộng Hợp Tác:**
+- 📱 Hợp tác chiến lược với content creator/brand khác
+- 🎯 Phát triển dự án cộng đồng mới
+- 💼 Tìm kiếm các cơ hội B2B & sponsorship
+- 📚 Trao đổi kiến thức, kinh nghiệm quản lý cộng đồng
+
+---
+
+## 📈 Chỉ Số Chính
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Active_Professional-brightgreen?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Community_Leadership-blue?style=flat-square)
+![Mission](https://img.shields.io/badge/Mission-Free_Fire_Creator_CEO-red?style=flat-square)
 
 </div>
 
 ---
 
-## 📱 Kết Nối Với Tôi
+## ⭐ Điểm Nổi Bật & Giá Trị Cốt Lõi
 
-Hãy theo dõi và kết nối với tôi trên các nền tảng mạng xã hội:
+| **Giá Trị** | **Mô Tả** |
+|:---|:---|
+| **🎯 Cam Kết Cao** | Dành toàn tâm cho công việc, dự án và cộng đồng |
+| **💪 Đam Mê Mãnh Liệt** | Sáng tạo liên tục, học hỏi không ngừng |
+| **🚀 Tầm Nhìn Chiến Lược** | Lập kế hoạch dài hạn, định hướng rõ ràng |
+| **🤝 Tinh Thần Đồng Đội** | Xây dựng & phát triển đội ngũ mạnh mẽ |
+| **📈 Mindset Tăng Trưởng** | Liên tục học tập, cải tiến, nâng cao năng lực |
+
+---
 
 <div align="center">
 
-**[Facebook](https://facebook.com)** | **[YouTube](https://youtube.com)** | **[TikTok](https://tiktok.com)**
+### 💡 *"Lãnh Đạo Cộng Đồng Là Trách Nhiệm; Tạo Giá Trị Là Cam Kết"*
+
+---
 
 </div>
 
 ---
 
-## 🤝 Cộng Tác & Hợp Tác
-
-Tôi luôn mở cửa để:
-- 💬 Hợp tác với các creator khác
-- 🤝 Phát triển dự án cộng đồng
-- 📧 Nhận lời mời hợp tác từ các thương hiệu
-- 💡 Trao đổi ý tưởng và kinh nghiệm
+## **ENGLISH VERSION** | Phiên Bản Tiếng Anh
 
 ---
 
-## 📊 Số Liệu Thống Kê
+## 📖 Executive Summary
+
+I am a **Professional Content Creator and Strategic Community Leader** with a vision to develop the gaming community ecosystem. Armed with technical expertise from **Economics & Technology College** (Applied Computer Science program) and hands-on business experience, I'm leading **SGM Network** to become a **premier community-building organization**. As a senior high school student, I balance academic excellence with entrepreneurial community development initiatives.
+
+---
+
+## 🎓 Educational Foundation & Professional Expertise
+
+### **Current Education**
+- **Grade 12 - Senior High School**
+- Preparing for National University Entrance Examination
+
+### **Professional Cornerstone**
+- **Economics & Technology College** – Applied Computer Science Major
+  - Practical technical knowledge and application
+  - Systems management and operational expertise
+  - Strong technical foundation
+
+---
+
+## 💼 Professional Experience & Positions
+
+### **Strategic Project Leader - SGM Network**
+**Title:** Community Development & Strategic Project Lead  
+**Duration:** Present  
+**Key Responsibilities:**
+- Develop and manage large-scale Garena Free Fire community system
+- Establish organizational structure, operational processes, and community business framework
+- Optimize user experience through data-driven analysis and community engagement programs
+- Direct strategic development roadmap: **Position SGM Network as Premier Community Development Organization**
+
+### **Strategic Partner - Garena Free Fire Vietnam**
+**Title:** Professional Collaborator & Content Creator  
+**Duration:** Present  
+**Key Responsibilities:**
+- Produce high-quality content with strategic gameplay analysis
+- Partner with Garena Free Fire on marketing campaigns and community initiatives
+- Develop community-focused projects aligned with gaming ecosystem
+- Establish B2B relationships with brands in the gaming sector
+
+---
+
+## 🎯 Strategic Community Projects
+
+### **SGM Network - Garena Free Fire Community Ecosystem**
+
+**Project Overview:**  
+SGM Network is a comprehensive community initiative designed to build a **robust, professional, and sustainable community system** for Garena Free Fire enthusiasts. The project focuses on creating long-term value, developing community leadership, and elevating member experience.
+
+**Strategic Objectives:**
+- **Organizational Positioning:** Establish as **Premier Community Development Organization** in Vietnamese gaming sector
+- **System Operations:** Build **Powerful Community System** with professional organizational structure and efficient processes
+- **Scale & Reach:** Grow community from inception to tens of thousands of active members
+- **Experience Enhancement:** Deliver tangible value and improved service quality for every member
+
+**Achievements & Progress:**
+- Established professional community infrastructure with structured organization
+- Implemented community leader recruitment, training, and development programs
+- Deployed regular events and activities creating member value
+- Implemented performance metrics and community effectiveness analytics
+
+---
+
+## 🎬 Content Creation Portfolio
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Content%20Creation-blue?style=flat-square)
-![Goal](https://img.shields.io/badge/Goal-Free%20Fire%20Creator-red?style=flat-square)
+| **Platform** | **Content Strategy** | **Status** | **Frequency** |
+|:---:|:---|:---:|:---:|
+| **YouTube** | Strategic Gameplay, Advanced Tutorials, Gaming Analysis | ✅ Active | Regular |
+| **TikTok** | Gameplay Highlights, Trending Content, Creative Shorts | ✅ Active | Daily |
+| **Facebook** | Community Engagement, Event Announcements, Networking | ✅ Active | Continuous |
 
 </div>
 
 ---
 
-## ✨ Điểm Nổi Bật
+## 🌟 Vision & Development Goals
 
-- 🎯 **Cam Kết Cao** với công việc và cộng đồng
-- 💪 **Nhiệt Huyết** và sự sáng tạo không ngừng
-- 🚀 **Tầm Nhìn** rõ ràng về tương lai
-- 🤝 **Tinh Thần Đồng Đội** mạnh mẽ
-- 📈 **Khát Vọng** phát triển bản thân liên tục
+### **Long-Term Dream**
+Become a **Full-Time Professional Content Creator for Garena Free Fire**, recognized as a community value creator with strategic influence on gaming ecosystem development in Vietnam.
+
+### **Short-Term Objectives (1-2 Years)**
+- ✅ Complete Senior High School Education with excellent achievement
+- ✅ Develop SGM Network into a **thriving large-scale community** (tens of thousands of active members)
+- ✅ Grow social media following across platforms (100K+ followers per platform)
+- ✅ Establish B2B partnerships with brands in digital & gaming sectors
+
+### **Long-Term Objectives (3-5 Years)**
+- ✅ Become one of the **top Garena Free Fire Content Creators in Vietnam**
+- ✅ Build **Recognized Personal Brand** known for expertise and credibility
+- ✅ Scale SGM Network into a **Registered Social Business or Non-Profit Organization**
+- ✅ Create positive impact on gaming community across the region
+
+---
+
+## 🎮 Interests & Capabilities
+
+| **Area** | **Details** |
+|:---|:---|
+| **🎵 Music** | Multi-genre listener; music as creative catalyst |
+| **🕹️ Gaming** | Garena Free Fire core passion; deep strategic gameplay analysis |
+| **📊 Analytics** | Data-driven insights, trend analysis, community behavior |
+| **🤝 Leadership** | Team building, talent development, project management |
+
+---
+
+## 🔗 Connection & Partnership Opportunities
+
+<div align="center">
+
+**[Facebook](https://facebook.com)** — **[YouTube](https://youtube.com)** — **[TikTok](https://tiktok.com)**
+
+</div>
+
+**Partnership Opportunities:**
+- 📱 Strategic collaboration with content creators/brands
+- 🎯 New community project development
+- 💼 B2B partnerships and sponsorship opportunities
+- 📚 Knowledge exchange and community management expertise
+
+---
+
+## 📈 Key Performance Indicators
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Active_Professional-brightgreen?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Community_Leadership-blue?style=flat-square)
+![Mission](https://img.shields.io/badge/Mission-Free_Fire_Creator_CEO-red?style=flat-square)
+
+</div>
+
+---
+
+## ⭐ Core Strengths & Values
+
+| **Value** | **Description** |
+|:---|:---|
+| **🎯 High Commitment** | Dedicated to work, projects, and community impact |
+| **💪 Passionate Drive** | Continuous innovation, relentless learning orientation |
+| **🚀 Strategic Vision** | Long-term planning with clear directional goals |
+| **🤝 Team Spirit** | Building and developing strong, cohesive teams |
+| **📈 Growth Mindset** | Constant improvement culture, skill advancement focus |
 
 ---
 
 <div align="center">
 
-### ⚡ *"Đam Mê là Linh Hồn của Mọi Thành Công"* ⚡
-
-**Cảm ơn bạn đã ghé thăm!** 🙏
+### 💡 *"Community Leadership Is Responsibility; Creating Value Is Commitment"*
 
 ---
 
