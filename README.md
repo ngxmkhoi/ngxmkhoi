@@ -17,17 +17,19 @@
 
 ---
 
-### 📈 GitHub Statistics
+### � GitHub Statistics & Performance
 
-<a href="https://github.com/ngxmkhoi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngxmkhoi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngxmkhoi&layout=compact&theme=radical" />
-</a>
+#### Profile Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngxmkhoi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
----
+#### Technical Stack & Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngxmkhoi&layout=compact&theme=tokyonight&hide_border=true)
 
-### 🏆 GitHub Achievements
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngxmkhoi&theme=radical)
+#### Contribution Streak
+![GitHub Streak](https://streaks.vercel.app/api?user=ngxmkhoi&theme=tokyonight&hide_border=true)
+
+#### Repository Activity
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ngxmkhoi&theme=tokyo-night&hide_border=true)
 
 ---
 
