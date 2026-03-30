@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🚀 Mình là Khôi
+# 🚀 Khôi
 ## @BlazeHunter
 
-**Yêu Gaming • Yêu Cộng Đồng • Yêu Sáng Tạo**
+**Game Thủ • Content Creator • Thành Viên SGM Network**
 
 ---
 
-### 📱 Tìm Mình Ở Đây
+### 📱 Tìm Mình
 
 [![GitHub](https://img.shields.io/badge/GitHub-ngxmkhoi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngxmkhoi)
 &nbsp;
@@ -21,117 +21,72 @@
 
 ---
 
-## 👋 Mí Là Ai?
+## 👋 Mình Là Ai?
 
-Mình là một lãnh đạo cộng đồng gaming từ Việt Nam. Hiện đang xây dựng **SGM Network** - cộng đồng gaming tuyệt vời cho các game thủ Việt Nam. Mình cũng là cộng tác viên chính thức của Garena Free Fire.
+Mình là thành viên của **SGM Network** - cộng đồng game thủ Việt Nam. Mình thích chơi game, tạo nội dung, và kết nối với mọi người trong cộng đồng gaming.
 
-**Mình làm gì:**
-- 🎮 Quản lý cộng đồng gaming khủng
-- 🎬 Tạo nội dung trên nhiều nền tảng
-- 📊 Lên kế hoạch và phát triển chiến lược
-- 🤝 Xây dựng quan hệ kinh doanh
-
----
-
-## 🎓 Học Tập
-
-- 📚 Cao Đẳng: Tin Học Ứng Dụng (Cao Đẳng Kinh Tế Kỹ Thuật)
-- 🎒 Phổ Thông: Đang chuẩn bị thi tốt nghiệp 2026
+**Mình làm:**
+- 🎮 Chơi game & phân tích gameplay
+- 🎬 Tạo video trên YouTube, TikTok
+- 👥 Tham gia SGM Network
+- 💬 Trò chuyện với cộng đồng
 
 ---
 
-## 💼 Công Việc
+## 🎓 Học
 
-### 🎮 Giám Đốc SGM Network
-Mình dẫn dắt toàn bộ dự án này từ con số 0. Giờ đã có hơn 10,000 thành viên hoạt động. Mình quản lý 20+ người trong team và tổ chức các sự kiện, hoạt động nội dung thường xuyên.
-
-**Những gì đã làm:**
-- ✅ Xây dựng cộng đồng từ không
-- ✅ Học cách quản lý team
-- ✅ Tạo quy trình làm việc chuyên nghiệp
-- ✅ Phát triển kế hoạch kinh doanh
-
-### 📺 Cộng Tác Viên Garena Free Fire
-Mình sản xuất nội dung chiến lược, phân tích gameplay, và hợp tác với Garena trong các dự án marketing.
+- Cao Đẳng: Tin Học Ứng Dụng
+- Đang chuẩn bị thi tốt nghiệp
 
 ---
 
-## 🌟 Dự Án SGM Network
+## 📱 Nội Dung Mình Làm
 
-SGM Network là nơi tập hợp các game thủ Việt Nam, chia sẻ kinh nghiệm, tổ chức sự kiện, và xây dựng cộng đồng gaming chuyên nghiệp.
-
-**Mục tiêu của mình:**
-- Phát triển cộng đồng lên 50,000+ thành viên
-- Tạo doanh thu ổn định từ nhiều nguồn
-- Tổ chức sự kiện gaming lớn
-- Hợp tác với các brand nổi tiếng
-
-**Tiến độ hiện tại:**
-- 10,000+ thành viên 🎉
-- 20+ lãnh đạo trong team
-- 3+ hợp tác B2B
-- Hệ thống quản lý sạch sẽ
-
----
-
-## 📱 Sáng Tạo Nội Dung
-
-Mình xuất bản nội dung trên 4 nền tảng chính:
-
-| Nền Tảng | Loại Nội Dung | Tần Suất |
+| Nền Tảng | Nội Dung | Tần Suất |
 |:---|:---|:---|
-| **YouTube** | Phân tích, tutorial, chiến lược | 2-3 video/tuần |
-| **TikTok** | Highlight, viral, trend | 5-10 video/ngày |
-| **Facebook** | Cộng đồng, sự kiện, trò chuyện | Liên tục |
-| **GitHub** | Dự án, portfolio, code | Khi có dự án |
+| YouTube | Gameplay, phân tích | 2-3 video/tuần |
+| TikTok | Clip ngắn, highlight | Mỗi ngày |
+| Facebook | Chia sẻ, trò chuyện | Hàng ngày |
+| GitHub | Dự án | Khi có thời gian |
 
 ---
 
-## 🎯 Ước Mơ Của Mình
+## 🌟 SGM Network
 
-3-5 năm tới, mình muốn:
-- 🏆 Trở thành nhà lãnh đạo cộng đồng #1 Việt Nam
-- 🌍 Có ảnh hưởng toàn khu vực Đông Nam Á
-- 💰 Xây dựng mô hình kinh doanh bền vững
-- 🚀 SGM Network trở thành top ở lĩnh vực gaming
+Mình là thành viên của SGM Network - cộng đồng gaming tuyệt vời. Nơi đây có rất nhiều game thủ, tổ chức event, và chia sẻ kinh nghiệm.
 
 ---
 
-## 💪 Giá Trị Của Mình
+## 🎯 Mục Tiêu
 
-| Giá Trị | Ý Nghĩa |
-|:---|:---|
-| **Trách Nhiệm** | Cam kết với mọi người trong cộng đồng |
-| **Sáng Tạo** | Luôn tìm cách mới, cải tiến liên tục |
-| **Chiến Lược** | Lập kế hoạch rõ ràng, dài hạn |
-| **Nhân Tài** | Phát triển con người, mentoring |
-| **Tăng Trưởng** | Học hỏi, thích ứng, mở rộng không ngừng |
+- 🎬 Tạo nội dung hay & chất lượng
+- 👥 Kết nối với người chơi game
+- 🏆 Phát triển kỹ năng gaming
+- 💡 Học hỏi từ cộng đồng
 
 ---
 
 <div align="center">
 
-## 💬 Liên Lạc Với Mình
+## 💬 Liên Lạc
 
 **Mình sẵn sàng:**
-- 💼 Hợp tác chiến lược dài hạn
-- 💰 Sponsorship & brand partnership
-- 👥 Dự án phát triển cộng đồng
-- 🎥 Cộng tác nội dung
+- 💬 Trò chuyện về game
+- 🤝 Kết nối & hợp tác
+- 📸 Chia sẻ nội dung
+- 🎮 Chơi game cùng
 
-**⏱️ Mình sẽ phản hồi trong 24-48 giờ**
+**Phản hồi:** 24-48 giờ
 
-| Nền Tảng | Tài Khoản | Link |
-|:---:|:---|:---|
-| 📘 Facebook | ngxkhoi.ae | [Message mình](https://www.facebook.com/ngxkhoi.ae/) |
-| 🎬 YouTube | BlazeHunterVN | [Subscribe](https://www.youtube.com/@blazehuntervn) |
-| 🎵 TikTok | BlazeHunter398 | [Follow](https://www.tiktok.com/@blazehunter398) |
-| 💻 GitHub | ngxmkhoi | [Check](https://github.com/ngxmkhoi) |
+| Nền Tảng | Tài Khoản |
+|:---:|:---|
+| Facebook | [ngxkhoi.ae](https://www.facebook.com/ngxkhoi.ae/) |
+| YouTube | [BlazeHunterVN](https://www.youtube.com/@blazehuntervn) |
+| TikTok | [BlazeHunter398](https://www.tiktok.com/@blazehunter398) |
+| GitHub | [ngxmkhoi](https://github.com/ngxmkhoi) |
 
 ---
 
-**Cập nhật:** March 30, 2026
-
-Hãy kết nối với mình! 🤝
+**Hãy kết nối với mình!** 🤝
 
 </div>
